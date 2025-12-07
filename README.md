@@ -9,7 +9,7 @@ Special thanks to @Notaroomba, Hack Club, and @rasmushauschild for creating the 
 
 <img width="1642" height="1137" alt="image" src="https://github.com/user-attachments/assets/a65514dd-2121-4d34-bde2-7c7e57a43add" />
 
-<img width="1409" height="960" alt="image" src="https://github.com/user-attachments/assets/bd1bdfd2-3b24-473f-a9ad-39c45051414b" />
+<img width="1468" height="986" alt="image" src="https://github.com/user-attachments/assets/c82bc813-6beb-4996-807c-400dd0812aaf" />
 
 
 
